@@ -25,18 +25,24 @@ A robust Python system that automatically switches between multiple free AI API 
 
 ## 🚀 Quick Start
 
-### 1. Install Dependencies
+### 1. Clone the Repository
+```bash
+git clone https://github.com/pratikm778/Free-API-setup.git
+cd Free-API-setup
+```
+
+### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2. Set Up API Keys
+### 3. Set Up API Keys
 ```bash
 cp .env.example .env
 # Edit .env and add your API keys
 ```
 
-### 3. Test Your Setup
+### 4. Test Your Setup
 ```bash
 python test_providers.py
 ```

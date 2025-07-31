@@ -22,9 +22,9 @@ By the end of this guide, you'll have:
 ### Download the Project
 
 ```bash
-# Option 1: Clone from GitHub (if available)
-git clone <your-repo-url>
-cd cascading-ai-flow
+# Option 1: Clone from GitHub
+git clone https://github.com/pratikm778/Free-API-setup.git
+cd Free-API-setup
 
 # Option 2: Download and extract ZIP file
 # Then navigate to the extracted folder
